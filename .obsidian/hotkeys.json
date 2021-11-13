@@ -7,5 +7,15 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

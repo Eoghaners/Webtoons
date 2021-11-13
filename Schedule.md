@@ -23,7 +23,11 @@
 
 
 # *Tuesday*
+- [Boyfriends](https://www.webtoons.com/en/slice-of-life/boyfriends/list?title_no=2616)
+
 - [Clinic Of Horrors](https://www.webtoons.com/en/supernatural/clinic-of-horrors/list?title_no=3414)
+
+- [Fake Humans](https://www.webtoons.com/en/thriller/fake-humans/list?title_no=3452)
 
 - [Homesick](https://www.webtoons.com/en/thriller/homesick/list?title_no=2759)
 
@@ -64,6 +68,8 @@
 
 
 # *Friday*
+- [Boyfriends](https://www.webtoons.com/en/slice-of-life/boyfriends/list?title_no=2616)
+
 - [Chasing Tails](https://www.webtoons.com/en/mystery/chasing-tails/list?title_no=3440)
 
 - ~~[I Want to be a Cute Anime Girl](https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/list?title_no=349416)~~
@@ -112,8 +118,6 @@
 # *Started*
 - [Extinction](https://www.webtoons.com/en/challenge/extinction/list?title_no=692144)
 
-- [Fake Humans](https://www.webtoons.com/en/thriller/fake-humans/list?title_no=3452)
-
 - [Good Luck, Hero!](https://www.webtoons.com/en/fantasy/good-luck-hero/list?title_no=3346)
 
 - [Hardcore Leveling Warrior](https://www.webtoons.com/en/action/hardcore-leveling-warrior/list?title_no=1221)
@@ -138,8 +142,6 @@
 - [BlackSmith](https://www.webtoons.com/en/supernatural/blacksmith/list?title_no=3341)
 
 - [Bloodrain Valravn](https://www.webtoons.com/en/challenge/bloodrain-valravn/list?title_no=292060)
-
-- [Boyfriends](https://www.webtoons.com/en/slice-of-life/boyfriends/list?title_no=2616)
 
 - [Change Your Path](https://www.webtoons.com/en/challenge/change-your-path/list?title_no=368238)
 
