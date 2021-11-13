@@ -1,0 +1,17 @@
+{
+  "ribbonIcon": false,
+  "showRootFolder": true,
+  "showFilesFromSubFolders": true,
+  "searchFunction": true,
+  "allSearchOnlyInFocusedFolder": false,
+  "showFilesFromSubFoldersButton": true,
+  "excludedExtensions": "",
+  "excludedFolders": "",
+  "folderIcon": "icomoon",
+  "folderCount": true,
+  "folderCountOption": "notes",
+  "evernoteView": true,
+  "filePreviewOnHover": true,
+  "sortFilesBy": "name",
+  "fixedHeaderInFileList": false
+}

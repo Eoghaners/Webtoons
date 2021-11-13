@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "af4fb0649c52d6df",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fe3e9054d07d62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Schedule.md",
+            "mode": "source"
+          }
+        },
+        "group": "d5e505bd896b6719"
+      },
+      {
+        "id": "dff8650918e7d723",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Schedule.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d5e505bd896b6719"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8451a3dc2dbd849",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7acafa82d6a011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafb2e55cd7b6ef3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96f2962e9bef7238",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f400365c03c05ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b5a35962d56c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ec6188572f56aa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Schedule.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60e9607215005abf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dff8650918e7d723",
+  "lastOpenFiles": [
+    "Schedule.md",
+    "Action/The Eagle and The Snake.md",
+    "Action/A Useless Villain.md",
+    "Schedule/Friday.md",
+    "Schedule/Saturday.md",
+    "Schedule/Sunday.md",
+    "Schedule/Thursday.md",
+    "Schedule/Wednesday.md",
+    "Schedule/Tuesday.md",
+    "File.md"
+  ]
+}
