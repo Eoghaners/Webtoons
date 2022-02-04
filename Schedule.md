@@ -4,7 +4,7 @@
 
 
 # *Monday*
-- [A Useless Villian](https://www.webtoons.com/en/action/a-useless-villain/list?title_no=2969) ~*[[A Useless Villain|Here]]*~
+- [A Useless Villian](https://www.webtoons.com/en/action/a-useless-villain/list?title_no=2969)
 
 - [Clinic Of Horrors](https://www.webtoons.com/en/supernatural/clinic-of-horrors/list?title_no=3414)
 
@@ -14,7 +14,7 @@
 
 - [Safely Endangered](https://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)
 
-- [The Eagle and the Snake](https://www.webtoons.com/en/action/the-eagle-and-the-snake/list?title_no=2819) ~*[[The Eagle and The Snake|Here]]*~ 
+- [The Eagle and the Snake](https://www.webtoons.com/en/action/the-eagle-and-the-snake/list?title_no=2819)
 
 - [The Lazy Lord Masters the Sword](https://www.webtoons.com/en/fantasy/the-lazy-lord-masters-the-sword/list?title_no=3349)
 
